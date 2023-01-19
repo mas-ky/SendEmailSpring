@@ -27,4 +27,3 @@ public class kirimEmailController {
 		return model;
 	}
 }
- 
